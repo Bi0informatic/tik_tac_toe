@@ -8,7 +8,7 @@ Tic tac toe is a classic game played by millions around the world. There are two
 
 ## About This Project
 
-![palette]![colour-1]![colour-2]![colour-3]![colour-4]![colour-5]
+![palette]![colour-5]![colour-4]![colour-3]![colour-2]![colour-1]
 
 The goal of this project is to practice steady development on a project. It is also to see how much I remember about HTML, CSS, and JS.
 
