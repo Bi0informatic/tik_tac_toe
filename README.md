@@ -4,7 +4,7 @@
 
 ![Hi][licence-shield]
 
-Tik tac toe is a classic game played by millions around the world. There are two players and your goal is to get three in a row either horizontally, vertically, or diagonally.
+Tic tac toe is a classic game played by millions around the world. There are two players and your goal is to get three in a row either horizontally, vertically, or diagonally.
 
 ## About This Project
 
